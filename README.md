@@ -20,8 +20,7 @@
 
 ![](https://streak-stats.demolab.com?user=modestsp&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=modestsp&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=modestsp&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=modestsp&theme=algolia&utcOffset=5.30)
+
 <details>
   <summary>Random Programming quote</summary>
 
