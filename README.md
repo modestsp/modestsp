@@ -2,7 +2,7 @@
 <h3 align="center">As a Backend .NET Developer with a keen interest in DevOps, I aim to create efficient and reliable applications.</h3>
 
 
-- 🌱 I’m currently learning **Angular, Kubernetes...**
+- 🌱 I’m currently learning **Kubernetes...**
 
 - 👨‍💻 Check my Portfolio at [modestsp.vercel.app](modestsp.vercel.app)
 
