@@ -6,7 +6,7 @@
 
 - 👨‍💻 Check my Portfolio at [modestsp.vercel.app](modestsp.vercel.app)
 
-- 📫 How to reach me **csperichon@gmail.com**
+- 📫 How to reach me **sebasperichon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
