@@ -4,8 +4,7 @@
 
 - 🌱 I’m currently learning **Kubernetes...**
 
-- 👨‍💻 Check my Portfolio at [modestsp.vercel.app](modestsp.vercel.app)
-
+- 👨‍💻 Check my Portfolio at: <a href="https://sebaperi.dev" target="blank">sebaperi.dev</a>
 - 📫 How to reach me **sebasperichon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
