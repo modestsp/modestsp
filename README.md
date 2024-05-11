@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sebastián</h1>
-<h3 align="center">As a Backend .NET Developer, I aim to create efficient and reliable applications.</h3>
+<h3 align="center">As a Web Developer, I aim to create efficient and reliable applications.</h3>
 
 
-- 🌱 I’m currently learning **Angular...**
+- 🌱 I’m currently learning **Go...**
 
 - 👨‍💻 Check my Portfolio at: <a href="https://sebaperi.dev" target="blank">sebaperi.dev</a>
 - 📫 How to reach me **sebasperichon@gmail.com**
